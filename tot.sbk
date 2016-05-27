@@ -1,0 +1,10 @@
+/* sbk
+scala version version 2.11.7
+
+*/
+//Main.main(args) // Main class. Uncomment to run the script without compilation
+
+// scala code here
+object Main extends App {
+  println("Hello, world!")
+}
